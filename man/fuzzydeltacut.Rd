@@ -31,7 +31,7 @@ For more information about the necessary data format see:  \code{\link{test}}
 }
 \references{ R. Viertl, D. Hareter: \emph{Beschreibung und Analyse unscharfer
 Information - Statistische Methoden \enc{für}{fur} unscharfe Daten}, Springer, Wien, 2006 }
-\author{ Aklan \enc{Semagül}{Semagul}, Altindas Emine, Kang Yi Hong, Macit Rabiye, Umar Senay, \enc{Ünal}{Unal} Hatice}
+\author{ \enc{Semagül}{Semagul} Aklan, Emine Altindas, Yi Hong Kang, Rabiye Macit, Senay Umar, Hatice \enc{Ünal}{Unal}}
 
 \seealso{  \code{\link{fuzzynumber}}, \code{\link{fuzzymin}}, \code{\link{fuzzymax}}, \code{\link{fuzzysum}}, \code{\link{fuzzymean}}, \code{\link{fuzzyscalar}}, \code{\link{fuzzyproduct}}, \code{\link{fuzzypower}}, \code{\link{fuzzyfunction}} }
 \examples{

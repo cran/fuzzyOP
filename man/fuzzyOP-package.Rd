@@ -23,19 +23,19 @@ The functions in this package omit NAs automatically. For more information about
 \tabular{ll}{
 Package: \tab fuzzyOP\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2008-05-19\cr
+Version: \tab 1.1\cr
+Date: \tab 2009-03-12\cr
 License: \tab FREE\cr
 }
 }
 
-\author{Maintainer: Aklan \enc{Semagül}{Semagul}, Altindas Emine, Kang Yi Hong, Macit Rabiye, Umar Senay, \enc{Ünal}{Unal} Hatice,
+\author{Maintainer: \enc{Semagül}{Semagul} Aklan, Emine Altindas, Yi Hong Kang, Rabiye Macit, Senay Umar, Hatice \enc{Ünal}{Unal} ,
 \cr \email{fuzzyOP@gmx.at}
 }
 \references{
  R. Viertl, D. Hareter: \emph{Beschreibung und Analyse unscharfer
  Information - Statistische Methoden \enc{für}{fur} unscharfe Daten}, Springer, Wien, 2006}
-}
+
 
 \keyword{ package }
 
